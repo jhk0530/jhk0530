@@ -12,6 +12,13 @@
 
 - I love to write, draw, and make unexpected things !.
 
+## :trophy: What I did
+
+- [Data Science / Artificial Intelligence Bootcamp @codestates](https://codestates.com/course/ai)
+
+- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc) : Mentoring `build Data package with R`
+
+
 ## :mortar_board: Education 
 - ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070)
 
@@ -26,12 +33,15 @@
 - ![](https://img.shields.io/badge/Expert-R-%231e65b7)
 - ![](https://img.shields.io/badge/Intermediate-PYTHON-%23ffd03f)
 
+## :black_nib: Writing
+- <https://jhk0530.medium.com>
+
+
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
 - [netGO](https://academic.oup.com/bioinformatics/article/36/10/3283/5728635) : network-integrated pathway enrichment analysis (**Bioinformatics**)
 - CellEnrich (**In Process**)
 - [Basic data analysis with palmerpenguins](https://www.r-bloggers.com/basic-data-analysis-with-palmerpenguins/) (**R-bloggers**)
-
 
 ## :closed_book: Book
 - [Minimal Shiny](https://wikidocs.net/book/4084)
@@ -66,8 +76,11 @@
 [<img src='https://user-images.githubusercontent.com/6457691/76746412-d1d1ff80-67ba-11ea-9b19-2306531ab9a0.png' width ='150'>](https://github.com/jhk0530/corona-triage)
 
 - corona-triage : Corona patient management dashboard (**co-work with gg.go.kr**)
+
 ### Education 
 
 [<img src='https://user-images.githubusercontent.com/6457691/77250309-6e4c4400-6c8a-11ea-84d9-1f6b01c7f5ad.png' width ='150'>](https://github.com/jhk0530/learnTidy)
 
 - learnTidy :  Learn `tidyverse` coding style with `learnr`
+
+
