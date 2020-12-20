@@ -29,9 +29,20 @@
   - **Bioinformatics** 
   - **Dissertation title : Computational pathway and network analysis of gene expression data**
 
-## :keyboard: Programming Skill
-- ![](https://img.shields.io/badge/Expert-R-%231e65b7)
+## :keyboard: Skill
+
+### Entry : I understood concept.
+
+- ![](https://img.shields.io/badge/Entry-GoogleAnalytics-%2355efc4)
+- ![](https://img.shields.io/badge/Entry-SQL-%2355efc4)
+
+### Intermediate : I have experience. 
+
 - ![](https://img.shields.io/badge/Intermediate-PYTHON-%23ffd03f)
+
+### Expert : I know this.
+
+- ![](https://img.shields.io/badge/Expert-R-%231e65b7)
 
 ## :black_nib: Writing
 - <https://jhk0530.medium.com>
@@ -54,6 +65,10 @@
 [<img src='https://user-images.githubusercontent.com/6457691/87225503-790d1f00-c3c8-11ea-8d6a-0b624c0fa559.png' width ='100'>](https://github.com/pg-vscode-extn-kr)
 
 ## :gift: Work
+
+### [Presentation](https://github.com/jhk0530/presentations)
+- [DataPackage](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) : How to build Data package with R 
+- [myActionR2](https://github.com/jhk0530/presentations/blob/main/myActionR2.pdf) : How to generate automated report with R 
 
 ### Visualization
 - [Tableau by Shiny](https://github.com/jhk0530/TableauByShiny)
