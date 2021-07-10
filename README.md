@@ -1,23 +1,32 @@
 ### README for jhk0530 👋
 
+- 최근 업데이트: 21년 7월 10일
+
 ## :star: Now I am 
 
-<img src='https://user-images.githubusercontent.com/6457691/92294368-909afb00-ef66-11ea-8686-b902a90b2718.jpg' width = 350>
-
-- I enjoy my weekdays with [CodeStates](https://github.com/codestates) DS Cell & Every crews from other Cell. 
-
-- I design course material and lecture of [Data Science Course](https://codestates.com/course/data-science) (and teach these too !)
-
-- Also I am enjoying to share my own insights from many & various data built from codestates that I found. 
-
-- I love to write, draw, and make unexpected things !.
+- Code States Admission 팀에서 **개개인의 잠재력을 채워주는 방법**을 고민하고 있어요. (21.04 ~ )
+- Code States [AIB팀(이전 DS팀)](https://codestates.com/course/ai)에서 **코스 자료와 강의를 설계**했었어요. (20.07 ~ 21.03)
 
 ## :trophy: What I did
 
-- [Data Science / Artificial Intelligence Bootcamp @codestates](https://codestates.com/course/ai)
+- [DS / AI Bootcamp @codestates](https://codestates.com/course/ai)
+  - Section1: 기초 통계, 수학, 데이터 시각화, 전처리 등
 
-- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc) : Mentoring `build Data package with R`
+- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc): 멘토링 `build Data package with R`
+  - <img src='https://user-images.githubusercontent.com/6457691/125151802-c2cb4980-e183-11eb-8717-bce407dc35dc.png' width = '400'>
 
+- [Github Action으로 R Report 만들기](https://github.com/jhk0530/presentations/blob/main/myActionR2.pdf)
+
+<!-- - [DataPackage](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) : How to build Data package with R -->
+
+- [eCRF-SMCcath](https://github.com/zarathucorp/eCRF-SMCcath): 환자 데이터 기록 시스템 개발 (21.03 ~ 21.06)
+  - <img src='https://user-images.githubusercontent.com/6457691/125151835-0d4cc600-e184-11eb-8858-ec5aaa23f338.png' width = '400'> 
+
+- CodeStates Admission팀 사내 교육 (21.06 ~ )
+  - [0-OT](https://jhk0530.github.io/test/ADM-0/#/)
+  - [1-EDA](https://jhk0530.github.io/test/ADM-1/#/)
+
+- [Rpresentation 101](https://jhk0530.github.io/test/Rpresentations/#/) (21.07 ~ )
 
 ## :mortar_board: Education 
 - ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070)
@@ -29,24 +38,39 @@
   - **Bioinformatics** 
   - **Dissertation title : Computational pathway and network analysis of gene expression data**
 
+- ![](https://img.shields.io/badge/PM_Bootcamp-CodeStates_2021-%234000c7) 
+
 ## :keyboard: Skill
 
-### Entry : I understood concept.
+### Entry: 이거 컨셉은 대충 알아요.
 
 - ![](https://img.shields.io/badge/Entry-GoogleAnalytics-%2355efc4)
 - ![](https://img.shields.io/badge/Entry-SQL-%2355efc4)
 
-### Intermediate : I have experience. 
+### Intermediate: 이거로 일 해본 적 있어요.
 
 - ![](https://img.shields.io/badge/Intermediate-PYTHON-%23ffd03f)
 
-### Expert : I know this.
+### Expert: 이거 잘해요. 
 
 - ![](https://img.shields.io/badge/Expert-R-%231e65b7)
+- ![](https://img.shields.io/badge/Expert-Shiny-%231e65b7)
+
+### ETC / License:
+- ADsP (20.09)
+- Coursera Python for Every Body (20.10)
+  - [Programming for Everybody](https://www.coursera.org/account/accomplishments/certificate/3UGP3NT3MAFT)
+  - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/U88FJCHCHMD7)
+  - [Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/3NUYDRQQVC3B)
+  - [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/X3J5CYAQ7NHK)
 
 ## :black_nib: Writing
-- <https://jhk0530.medium.com>
-
+- [개인 미디엄](https://jhk0530.medium.com)
+- [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
+  - 5기 완주 (20.11 ~ 21.05) 
+  - 6기 (21.06 ~ )
+- [Code States 미디엄](https://medium.com/code-states) ( 메인 에디터 )
+- [so.prize 프리시즌 A 수상](https://soprize.so/answer/106)
 
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
@@ -65,10 +89,6 @@
 [<img src='https://user-images.githubusercontent.com/6457691/87225503-790d1f00-c3c8-11ea-8d6a-0b624c0fa559.png' width ='100'>](https://github.com/pg-vscode-extn-kr)
 
 ## :gift: Work
-
-### [Presentation](https://github.com/jhk0530/presentations)
-- [DataPackage](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) : How to build Data package with R 
-- [myActionR2](https://github.com/jhk0530/presentations/blob/main/myActionR2.pdf) : How to generate automated report with R 
 
 ### Visualization
 - [Tableau by Shiny](https://github.com/jhk0530/TableauByShiny)
@@ -97,5 +117,3 @@
 [<img src='https://user-images.githubusercontent.com/6457691/77250309-6e4c4400-6c8a-11ea-84d9-1f6b01c7f5ad.png' width ='150'>](https://github.com/jhk0530/learnTidy)
 
 - learnTidy :  Learn `tidyverse` coding style with `learnr`
-
-
