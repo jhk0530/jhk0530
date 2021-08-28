@@ -27,7 +27,6 @@
   - [1-EDA](https://jhk0530.github.io/test/ADM-1/#/)
   - [2-Dist](https://jhk0530.github.io/test/ADM-2/#/)
   - [3-Experiment](https://jhk0530.github.io/test/ADM-3/#/)
-  - 
 
 - [Rpresentation 101](https://jhk0530.github.io/test/Rpresentations/#/) (21.07 ~ )
 
