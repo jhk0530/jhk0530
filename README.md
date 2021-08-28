@@ -25,6 +25,9 @@
 - CodeStates Admission팀 사내 교육 (21.06 ~ )
   - [0-OT](https://jhk0530.github.io/test/ADM-0/#/)
   - [1-EDA](https://jhk0530.github.io/test/ADM-1/#/)
+  - [2-Dist](https://jhk0530.github.io/test/ADM-2/#/)
+  - [3-Experiment](https://jhk0530.github.io/test/ADM-3/#/)
+  - 
 
 - [Rpresentation 101](https://jhk0530.github.io/test/Rpresentations/#/) (21.07 ~ )
 
