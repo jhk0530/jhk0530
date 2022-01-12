@@ -70,9 +70,22 @@
 - [개인 미디엄](https://jhk0530.medium.com)
 - [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
   - 5기 완주 (20.11 ~ 21.05) 
-  - 6기 (21.06 ~ )
-- [Code States 미디엄](https://medium.com/code-states) ( 메인 에디터 )
+  - 6기 완주 (21.06 ~ 22.01)
+- [Code States 미디엄](https://medium.com/code-states) ( ~ 21.04)
 - [so.prize 프리시즌 A 수상](https://soprize.so/answer/106)
+- [힙한 데이터의 비밀](https://steady-joggers-035.notion.site/Beta-ecdd12938ea64f1682b895400848a9b5)
+  <details>  
+    <summary>1기 완주</summary>
+  
+    1. [힙데비](https://jhk0530.medium.com/%ED%9E%99%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EB%B9%84%EB%B0%80-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-111a2db353bc)
+    2. [배달의민족](https://jhk0530.medium.com/%EC%9A%B0%EC%95%84%ED%95%9C-po%EC%9D%98-%EC%8B%A4%ED%97%98-1b9971bcfc75)
+    3. [콴다1](https://jhk0530.medium.com/%EC%BD%B4%EB%8B%A4%EC%9D%98-%EA%B3%A0%EB%AF%BC-74aada95816a)  
+    4. [콴다2](https://jhk0530.medium.com/%EC%BD%B4%EB%8B%A4%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B3%A0%EB%AF%BC-90ecf089977)  
+    5. [스푼라디오](https://jhk0530.medium.com/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4-99fd837d4e)
+    6. [쿠팡이츠](https://jhk0530.medium.com/%EC%BF%A0%ED%8C%A1%EC%9D%B4%EC%B8%A0%EB%8A%94-%EC%9D%B8%EA%B8%B0%EA%B2%80%EC%83%89%EC%96%B4%EB%A5%BC-%EC%99%9C-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%A0%A4%ED%95%A0%EA%B9%8C-1bcedde9ca53)
+    7. [힙데비 최종회고](https://jhk0530.medium.com/%ED%9E%99%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EB%B9%84%EB%B0%80-%ED%9A%8C%EA%B3%A0-9801ef6c5131)
+  
+  </details>
 
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
