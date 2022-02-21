@@ -86,6 +86,15 @@
     7. [힙데비 최종회고](https://jhk0530.medium.com/%ED%9E%99%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98-%EB%B9%84%EB%B0%80-%ED%9A%8C%EA%B3%A0-9801ef6c5131)
   
   </details>
+- [Product Analytics Playground](https://playinpap.github.io/)
+  <details>
+    <summary>1기 퍼블리셔</summary>
+  
+  1. [가볍게 읽는 Product Analysis](https://playinpap.github.io/basic-product-analysis/)
+  2. [성향 점수 분석을 이용한 인과추론](https://playinpap.github.io/propensity-score/)
+  3. [A/B 테스트에서 의미있는 효과 기준 (MDE)을 설정하는 방법](https://playinpap.github.io/abtest-setting-mde/)
+  
+  </details>
 
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
