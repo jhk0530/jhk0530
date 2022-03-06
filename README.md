@@ -65,6 +65,8 @@
   - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/U88FJCHCHMD7)
   - [Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/3NUYDRQQVC3B)
   - [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/X3J5CYAQ7NHK)
+- 모두의연구소
+  - [빅데이터와 법 (22.03)](https://modulabs.co.kr/product/flip18th-5582-2021-11-29-045319/)
 
 ## :black_nib: Writing
 - [개인 미디엄](https://jhk0530.medium.com)
