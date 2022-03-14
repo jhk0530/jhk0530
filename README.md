@@ -1,11 +1,11 @@
 ### README for jhk0530 👋
 
-- 최근 업데이트: 21년 7월 10일
+- 최근 업데이트: 22년 3월 15일
 
 ## :star: Now I am 
 
-- Code States Admission 팀에서 **개개인의 잠재력을 채워주는 방법**을 고민하고 있어요. (21.04 ~ )
-- Code States [AIB팀(이전 DS팀)](https://codestates.com/course/ai)에서 **코스 자료와 강의를 설계**했었어요. (20.07 ~ 21.03)
+- Code States Admission 팀에서 **어떠한 요인을 가진 사람들이 목표를 더 잘 달성할까**라는 질문에 데이터라는 관점에서 고민했어요. (21.04 ~ 22.01)
+- Code States [AI Bootcamp팀](https://codestates.com/course/ai)에서 **코스 자료와 강의를 설계**했었어요. (20.07 ~ 21.03)
 
 ## :trophy: What I did
 
@@ -44,14 +44,16 @@
 
 ## :keyboard: Skill
 
-### Entry: 이거 컨셉은 대충 알아요.
+### Entry: 이거 사용해본적 있어요.
 
 - ![](https://img.shields.io/badge/Entry-GoogleAnalytics-%2355efc4)
-- ![](https://img.shields.io/badge/Entry-SQL-%2355efc4)
+- ![](https://img.shields.io/badge/Entry-Tableau-%2355efc4)
 
 ### Intermediate: 이거로 일 해본 적 있어요.
 
+- ![](https://img.shields.io/badge/Intermediate-SQL-%2355efc4)
 - ![](https://img.shields.io/badge/Intermediate-PYTHON-%23ffd03f)
+- ![](https://img.shields.io/badge/Intermediate-RMarkdown-%23ffd03f)
 
 ### Expert: 이거 잘해요. 
 
@@ -67,6 +69,8 @@
   - [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/X3J5CYAQ7NHK)
 - 모두의연구소
   - [빅데이터와 법 (22.03)](https://modulabs.co.kr/product/flip18th-5582-2021-11-29-045319/)
+- 부스트코스
+  - [데이터 시각화를 위한 태블로(22.03)](http://www.boostcourse.org/certificate/A20220315-838571?langCode=ko) 
 
 ## :black_nib: Writing
 - [개인 미디엄](https://jhk0530.medium.com)
@@ -101,7 +105,7 @@
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
 - [netGO](https://academic.oup.com/bioinformatics/article/36/10/3283/5728635) : network-integrated pathway enrichment analysis (**Bioinformatics**)
-- CellEnrich (**In Process**)
+- ~~CellEnrich~~ (**Dropped**)
 - [Basic data analysis with palmerpenguins](https://www.r-bloggers.com/basic-data-analysis-with-palmerpenguins/) (**R-bloggers**)
 
 ## :closed_book: Book
