@@ -101,12 +101,15 @@
   3. [A/B 테스트에서 의미있는 효과 기준 (MDE)을 설정하는 방법](https://playinpap.github.io/abtest-setting-mde/)
   
   </details>
+  
+- [한빛우수리뷰선정: 혼자 공부하는 R 데이터분석](https://devground.hanbit.co.kr/2022/04/12/%eb%a7%8e%ec%9d%b4-%ec%93%b0%eb%8a%94-%ed%95%b5%ec%8b%ac-%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4%ec%9d%98-%ec%a2%85%eb%a5%98-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84%eb%a5%bc-%ea%b0%9a%ea%b8%b0/)
 
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
 - [netGO](https://academic.oup.com/bioinformatics/article/36/10/3283/5728635) : network-integrated pathway enrichment analysis (**Bioinformatics**)
 - ~~CellEnrich~~ (**Dropped**)
 - [Basic data analysis with palmerpenguins](https://www.r-bloggers.com/basic-data-analysis-with-palmerpenguins/) (**R-bloggers**)
+
 
 ## :closed_book: Book
 - [Minimal Shiny](https://wikidocs.net/book/4084)
