@@ -114,7 +114,7 @@
 ## :closed_book: Book
 - [Minimal Shiny](https://wikidocs.net/book/4084)
 - [VSCode Extension API Guide](https://pg-vscode-extn-kr.github.io/) (**Translation**)
-- [Shiny Server Administrators Guide](https://jhk0530.gitbook.io/shinyserverguide/) (**Translation**, **In Process**)
+- ~~[Shiny Server Administrators Guide](https://jhk0530.gitbook.io/shinyserverguide/) (**Translation**, **In Process**)~~ (**Dropped**)
 
 ## :star: Group
 [<img src='https://user-images.githubusercontent.com/6457691/87225511-82968700-c3c8-11ea-856a-95e0b36d08cc.png' width = '100'>](https://github.com/unistbig/)
