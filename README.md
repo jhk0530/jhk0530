@@ -127,8 +127,6 @@
 
 ## :gift: Work
 
-![91263600]()
-
 ### Visualization
 - [Tableau by Shiny](https://github.com/jhk0530/TableauByShiny)
 - [Monthly Shiny](https://github.com/jhk0530/MonthlyShiny)
