@@ -12,8 +12,7 @@
 - [DS / AI Bootcamp @codestates](https://codestates.com/course/ai)
   - Section1: 기초 통계, 수학, 데이터 시각화, 전처리 등
 
-- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc): [멘토링](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) `build Data package with R`
-  - <img src='https://user-images.githubusercontent.com/6457691/125151802-c2cb4980-e183-11eb-8717-bce407dc35dc.png' width = '400'>
+- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc): [멘토링](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) `build Data package with R` 
 
 - [Github Action으로 R Report 만들기](https://github.com/jhk0530/presentations/blob/main/myActionR2.pdf)
 
