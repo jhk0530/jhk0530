@@ -101,6 +101,17 @@
   
   </details>
   
+  <details>
+    <summary>2기 퍼블리셔</summary>
+    
+  1. [Product Analytics 201](https://playinpap.github.io/product-analytics-201/)
+  2. [수상할 정도로 결과가 잘 나오는 데이터 분석을 만드는 방법](https://playinpap.github.io/twyman-law/)
+  3. [버거킹의 쿠폰 활용을 통해 알아보는 고객 그룹 나누기](https://playinpap.github.io/segment-burgerking/)
+    - [서핏](https://www.surfit.io/) 기재
+    <img width="1420" src="https://user-images.githubusercontent.com/6457691/178736359-3bc6e056-19d9-414b-b975-c8f747d8bb84.png">
+    
+  </details>    
+  
 - [한빛우수리뷰선정: 혼자 공부하는 R 데이터분석](https://devground.hanbit.co.kr/2022/04/12/%eb%a7%8e%ec%9d%b4-%ec%93%b0%eb%8a%94-%ed%95%b5%ec%8b%ac-%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4%ec%9d%98-%ec%a2%85%eb%a5%98-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84%eb%a5%bc-%ea%b0%9a%ea%b8%b0/)
 
 ## :pencil: Publication
