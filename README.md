@@ -29,6 +29,8 @@
 
 - [Rpresentation 101](https://jhk0530.github.io/test/Rpresentations/#/) (21.07 ~ )
 
+- [파이썬 강의](https://edulife.dongguk.edu/ngrade/site/html/4347)
+
 ## :mortar_board: Education 
 - ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070)
 
