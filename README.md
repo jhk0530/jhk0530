@@ -167,3 +167,23 @@
 [<img src='https://user-images.githubusercontent.com/6457691/77250309-6e4c4400-6c8a-11ea-84d9-1f6b01c7f5ad.png' width ='150'>](https://github.com/jhk0530/learnTidy)
 
 - learnTidy :  Learn `tidyverse` coding style with `learnr`
+
+---
+
+# TMIS
+
+## My Characteristics (CliftonStrengths)
+
+### :+1: Strength
+1. ![](https://img.shields.io/badge/Executing-Responsibility-722b7d) 
+2. ![](https://img.shields.io/badge/Executing-Focus-722b7d) 
+3. ![](https://img.shields.io/badge/Strategic%20Thinking-Analytical-419161)
+4. ![](https://img.shields.io/badge/Influencing-Maximizer-D9782C)
+5. ![](https://img.shields.io/badge/Strategic%20Thinking-Ideation-419161)
+
+### :-1: Weakness
+1. ![](https://img.shields.io/badge/Relationship%20Building-Positivity-D8E1F0)
+2. ![](https://img.shields.io/badge/Relationship%20Building-Developer-D8E1F0)
+3. ![](https://img.shields.io/badge/Relationship%20Building-Includer-D8E1F0) 
+4. ![](https://img.shields.io/badge/Strategic%20Thinking-Input-D3E9DF) 
+5. ![](https://img.shields.io/badge/Influencing-Woo-F7E4CF)
