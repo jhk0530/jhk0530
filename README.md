@@ -6,65 +6,77 @@
 
 - [Zarathu.corp](https://www.zarathu.com/) 에서 R 개발을 하고 있어요. (22.05 ~ )
 
-그 외 경력은 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinhwan-kim/)](https://www.linkedin.com/in/jinhwan-kim/)을 참조해주세요.
+이전 경력은 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinhwan-kim/)](https://www.linkedin.com/in/jinhwan-kim/)을 참조해주세요.
 
-## :trophy: What I did
+## :trophy: Projects
 
-- [DS / AI Bootcamp @codestates](https://codestates.com/course/ai)
-  - Section1: 기초 통계, 수학, 데이터 시각화, 전처리 등
+- [DS / AI Bootcamp Lecturer @Code States](https://codestates.com/course/ai) (20.08 ~ 21.02)
 
-- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc): [멘토링](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) `build Data package with R` 
-
-- [Github Action으로 R Report 만들기](https://github.com/jhk0530/presentations/blob/main/myActionR2.pdf)
+- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc): [멘토링](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) `build Data package with R` (20.11)
 
 <!-- - [DataPackage](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) : How to build Data package with R -->
 
+- [Github Action으로 R Report 만들기](https://github.com/jhk0530/presentations/blob/main/myActionR2.pdf) (20.12)
+
 - [eCRF-SMCcath](https://github.com/zarathucorp/eCRF-SMCcath): 환자 데이터 기록 시스템 개발 (21.03 ~ 21.06)
-  - <img src='https://user-images.githubusercontent.com/6457691/125151835-0d4cc600-e184-11eb-8858-ec5aaa23f338.png' width = '400'> 
 
-- CodeStates Admission팀 사내 교육 (21.06 ~ )
-  - [0-OT](https://jhk0530.github.io/test/ADM-0/#/)
-  - [1-EDA](https://jhk0530.github.io/test/ADM-1/#/)
-  - [2-Dist](https://jhk0530.github.io/test/ADM-2/#/)
-  - [3-Experiment](https://jhk0530.github.io/test/ADM-3/#/)
+- Code States Admission팀 Data Science 팀내 교육 (21.06 ~ 21.10)
 
-- [Rpresentation 101](https://jhk0530.github.io/test/Rpresentations/#/) (21.07 ~ )
+- [Rpresentation 101](https://jhk0530.github.io/test/Rpresentations/#/) (21.07)
 
-- [파이썬 강의](https://edulife.dongguk.edu/ngrade/site/html/4347)
+- [Python 강의](https://edulife.dongguk.edu/ngrade/site/html/4347) (22.01)
 
 ## :mortar_board: Education 
-- ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070)
+- ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070?style=flat-square)
 
-- ![](https://img.shields.io/badge/BACHELOR-UNIST_2010~2014-%2344c1c4) 
-  - **Biomedical Sci. & Comp Sci.**
+- ![](https://img.shields.io/badge/BACHELOR-UNIST_2010~2014-%2344c1c4?style=flat-square): Biomedical Sci. & Comp Sci.
   
-- ![](https://img.shields.io/badge/PHD-UNIST_2014~2020-%2344c1c4) 
-  - **Bioinformatics** 
-  - **Dissertation title : Computational pathway and network analysis of gene expression data**
+- ![](https://img.shields.io/badge/PHD-UNIST_2014~2020-%2344c1c4?style=flat-square): Bioinformatics (Dissertation title : Computational pathway and network analysis of gene expression data)
 
-- ![](https://img.shields.io/badge/PM_Bootcamp-CodeStates_2021-%234000c7) 
+- ![](https://img.shields.io/badge/PM_Bootcamp-CodeStates_2021-%234000c7?style=flat-square) 
 
-## :keyboard: Skill
+## :keyboard: Skills
 
-### Entry: 이거 사용해본적 있어요.
-
-- ![](https://img.shields.io/badge/Entry-GoogleAnalytics-%2355efc4)
-- ![](https://img.shields.io/badge/Entry-Tableau-%2355efc4)
+### Entry: 이건 써 봤어요.
+- ![](https://img.shields.io/badge/Google_Analytics-Entry-55efc4?style=flat-square&logo=google-analytics)
+- ![](https://img.shields.io/badge/Figma-Entry-55efc4?style=flat-square&logo=Figma)
+- ![](https://img.shields.io/badge/Tableau-Entry-55efc4?style=flat-square&logo=tableau)
+- ![](https://img.shields.io/badge/Streamlit-Entry-55efc4?style=flat-square&logo=streamlit)
+- ![](https://img.shields.io/badge/jQuery-Entry-55efc4?style=flat-square&logo=jQuery)
+- ![](https://img.shields.io/badge/Leaflet-Entry-55efc4?style=flat-square&logo=Leaflet)
+- ![](https://img.shields.io/badge/GitHub_Actions-Entry-55efc4?style=flat-square&logo=GitHub-Actions)
+- ![](https://img.shields.io/badge/GitHub_Pages-Entry-55efc4?style=flat-square&logo=GitHub-Pages)
+- ![](https://img.shields.io/badge/Loom-Entry-55efc4?style=flat-square&logo=Loom)
+- ![](https://img.shields.io/badge/Trello-Entry-55efc4?style=flat-square&logo=Trello)
+- ![](https://img.shields.io/badge/VS_Code-Entry-55efc4?style=flat-square&logo=Visual-Studio-Code)
 
 ### Intermediate: 이거로 일 해본 적 있어요.
+- ![](https://img.shields.io/badge/Asana-Intermediate-ffd03f?style=flat-square&logo=Asana)
+- ![](https://img.shields.io/badge/CSS-Intermediate-ffd03f?style=flat-square&logo=CSS3)
+- ![](https://img.shields.io/badge/Cytoscape.js-Intermediate-ffd03f?style=flat-square&logo=Cytoscape.js)
+- ![](https://img.shields.io/badge/GitHub-Intermediate-ffd03f?style=flat-square&logo=GitHub)
+- ![](https://img.shields.io/badge/Colab-Intermediate-ffd03f?style=flat-square&logo=Google-Colab)
+- ![](https://img.shields.io/badge/HTML-Intermediate-ffd03f?style=flat-square&logo=HTML5)
+- ![](https://img.shields.io/badge/Javascript-Intermediate-ffd03f?style=flat-square&logo=JavaScript)
+- ![](https://img.shields.io/badge/Jupyter-Intermediate-ffd03f?style=flat-square&logo=Jupyter)
+- ![](https://img.shields.io/badge/R_Markdown-Intermediate-ffd03f?style=flat-square&logo=Markdown)
+- ![](https://img.shields.io/badge/SQL-Intermediate-ffd03f?style=flat-square&logo=MySQL)
+- ![](https://img.shields.io/badge/Notion-Intermediate-ffd03f?style=flat-square&logo=Notion)
+- ![](https://img.shields.io/badge/Pandas-Intermediate-ffd03f?style=flat-square&logo=pandas)
+- ![](https://img.shields.io/badge/Plotly-Intermediate-ffd03f?style=flat-square&logo=Plotly)
+- ![](https://img.shields.io/badge/Python-Intermediate-ffd03f?style=flat-square&logo=Python)
+- ![](https://img.shields.io/badge/Slack-Intermediate-ffd03f?style=flat-square&logo=Slack)
+- ![](https://img.shields.io/badge/Tidyverse-Intermediate-ffd03f?style=flat-square&logo=Tidyverse)
+- ![](https://img.shields.io/badge/Typeform-Intermediate-ffd03f?style=flat-square&logo=Typeform)
 
-- ![](https://img.shields.io/badge/Intermediate-SQL-%2355efc4)
-- ![](https://img.shields.io/badge/Intermediate-PYTHON-%23ffd03f)
-- ![](https://img.shields.io/badge/Intermediate-RMarkdown-%23ffd03f)
-
-### Expert: 이거 잘해요. 
-
-- ![](https://img.shields.io/badge/Expert-R-%231e65b7)
-- ![](https://img.shields.io/badge/Expert-Shiny-%231e65b7)
+### Expert: 이건, 잘해요. 
+- ![](https://img.shields.io/badge/R-Expert-1e65b7?style=flat-square&logo=R)
+- ![](https://img.shields.io/badge/Shiny-Expert-1e65b7?style=flat-square&logo=RStudio)
 
 ### ETC / License:
 - ADsP (20.09)
-- Coursera Python for Every Body (20.10)
+![](https://img.shields.io/badge/Coursera-#0056D2?style=flat-square&logo=Coursera) 
+- Python for Every Body (20.10)
   - [Programming for Everybody](https://www.coursera.org/account/accomplishments/certificate/3UGP3NT3MAFT)
   - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/U88FJCHCHMD7)
   - [Using Databases with Python](https://www.coursera.org/account/accomplishments/certificate/3NUYDRQQVC3B)
@@ -75,7 +87,9 @@
   - [데이터 시각화를 위한 태블로(22.03)](http://www.boostcourse.org/certificate/A20220315-838571?langCode=ko) 
 
 ## :black_nib: Writing
-- [개인 미디엄](https://jhk0530.medium.com)
+
+- [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@jhk0530)](https://medium.com/@jhk0530)
+
 - [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
   - 5기 완주 (20.11 ~ 21.05) 
   - ![](https://img.shields.io/badge/%F0%9F%93%A6-Contributor-B3B3B3?style=flat-square) 6기 완주 (21.06 ~ 22.01)
