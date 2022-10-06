@@ -97,16 +97,16 @@
   <details>
     <summary>1기 퍼블리셔</summary>
   
-  1. [가볍게 읽는 Product Analysis](https://playinpap.github.io/basic-product-analysis/)
-  2. [성향 점수 분석을 이용한 인과추론](https://playinpap.github.io/propensity-score/)
-  3. [A/B 테스트에서 의미있는 효과 기준 (MDE)을 설정하는 방법](https://playinpap.github.io/abtest-setting-mde/)
+  1. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [가볍게 읽는 Product Analysis](https://playinpap.github.io/basic-product-analysis/)
+  2. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [성향 점수 분석을 이용한 인과추론](https://playinpap.github.io/propensity-score/)
+  3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [A/B 테스트에서 의미있는 효과 기준 (MDE)을 설정하는 방법](https://playinpap.github.io/abtest-setting-mde/)
   
   </details>
   
   <details>
     <summary>2기 퍼블리셔</summary>
     
-  1. [Product Analytics 201](https://playinpap.github.io/product-analytics-201/)
+  1. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [Product Analytics 201](https://playinpap.github.io/product-analytics-201/)
   2. [수상할 정도로 결과가 잘 나오는 데이터 분석을 만드는 방법](https://playinpap.github.io/twyman-law/)
   3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [버거킹의 쿠폰 활용을 통해 알아보는 고객 그룹 나누기](https://playinpap.github.io/segment-burgerking/)    
   4. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [고객의 행동을 변화시키는 Actionable Insight](https://playinpap.github.io/for-model/)
