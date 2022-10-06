@@ -1,11 +1,12 @@
 ### README for jhk0530 👋
 
-- 최근 업데이트: 22년 3월 15일
+- 최근 업데이트: 22년 10월 6일
 
 ## :star: Now I am 
 
-- Code States Admission 팀에서 **어떠한 요인을 가진 사람들이 목표를 더 잘 달성할까**라는 질문에 데이터라는 관점에서 고민했어요. (21.04 ~ 22.01)
-- Code States [AI Bootcamp팀](https://codestates.com/course/ai)에서 **코스 자료와 강의를 설계**했었어요. (20.07 ~ 21.03)
+- [Zarathu.corp](https://www.zarathu.com/) 에서 R 개발을 하고 있어요. (22.05 ~ )
+
+그 외 경력은 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinhwan-kim/)](https://www.linkedin.com/in/jinhwan-kim/)을 참조해주세요.
 
 ## :trophy: What I did
 
