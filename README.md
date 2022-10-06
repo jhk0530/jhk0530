@@ -108,15 +108,20 @@
     
   1. [Product Analytics 201](https://playinpap.github.io/product-analytics-201/)
   2. [수상할 정도로 결과가 잘 나오는 데이터 분석을 만드는 방법](https://playinpap.github.io/twyman-law/)
-  3. [버거킹의 쿠폰 활용을 통해 알아보는 고객 그룹 나누기](https://playinpap.github.io/segment-burgerking/), [서핏](https://www.surfit.io/) 기재
-    <img width="1420" src="https://user-images.githubusercontent.com/6457691/178736359-3bc6e056-19d9-414b-b975-c8f747d8bb84.png">
-    
-  4. [고객의 행동을 변화시키는 Actionable Insight](https://playinpap.github.io/for-model/), [서핏](https://www.surfit.io/) 기재
-    <img width="1420" src="https://user-images.githubusercontent.com/6457691/184559225-5bd2d63c-5ca1-45fb-8153-4b73cab5cb8e.png">
-
-
+  3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [버거킹의 쿠폰 활용을 통해 알아보는 고객 그룹 나누기](https://playinpap.github.io/segment-burgerking/)    
+  4. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [고객의 행동을 변화시키는 Actionable Insight](https://playinpap.github.io/for-model/)
 
   </details>    
+  
+  <details>
+    <summary> 요즘IT </summary>
+    
+    1. [데이터 엔지니어는 무슨 일을 할까?](https://yozm.wishket.com/magazine/detail/1496/)
+    2. [세상에 나쁜 가설은 없다](https://yozm.wishket.com/magazine/detail/1533/)
+    3. [비즈니스에 데이터를 활용하기까지, 아마존닷컴](https://yozm.wishket.com/magazine/detail/1615/)
+    4. [데이터 분석가가 되고 싶은 취준생을 위한 안내서](https://yozm.wishket.com/magazine/detail/1649/)
+    5. ![](https://img.shields.io/badge/%E2%AD%90-popular-f9ca24) [데이터 분석가에게 코딩테스트가 필요할까?](https://yozm.wishket.com/magazine/detail/1708/) 
+
   
 - [한빛우수리뷰선정: 혼자 공부하는 R 데이터분석](https://devground.hanbit.co.kr/2022/04/12/%eb%a7%8e%ec%9d%b4-%ec%93%b0%eb%8a%94-%ed%95%b5%ec%8b%ac-%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4%ec%9d%98-%ec%a2%85%eb%a5%98-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84%eb%a5%bc-%ea%b0%9a%ea%b8%b0/)
 
