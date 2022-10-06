@@ -97,6 +97,8 @@
   <details>
     <summary>1기 퍼블리셔</summary>
   
+  > ![](https://img.shields.io/badge/%F0%9F%A5%87-1st%20Publisher-CF524C)
+  
   1. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [가볍게 읽는 Product Analysis](https://playinpap.github.io/basic-product-analysis/)
   2. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [성향 점수 분석을 이용한 인과추론](https://playinpap.github.io/propensity-score/)
   3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [A/B 테스트에서 의미있는 효과 기준 (MDE)을 설정하는 방법](https://playinpap.github.io/abtest-setting-mde/)
