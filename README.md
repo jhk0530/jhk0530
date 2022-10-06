@@ -77,7 +77,8 @@
 - [개인 미디엄](https://jhk0530.medium.com)
 - [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
   - 5기 완주 (20.11 ~ 21.05) 
-  - 6기 완주 (21.06 ~ 22.01)
+  - ![](https://img.shields.io/badge/%F0%9F%93%A6-Contributor-B3B3B3?style=flat-square) 6기 완주 (21.06 ~ 22.01)
+  - ![](https://img.shields.io/badge/%F0%9F%93%A6-Contributor-B3B3B3?style=flat-square) 7기 완주 (22.05 ~ 22.10)
 - [Code States 미디엄](https://medium.com/code-states) ( ~ 21.04)
 - [so.prize 프리시즌 A 수상](https://soprize.so/answer/106)
 - [힙한 데이터의 비밀](https://steady-joggers-035.notion.site/Beta-ecdd12938ea64f1682b895400848a9b5)
@@ -97,21 +98,21 @@
   <details>
     <summary>1기 퍼블리셔</summary>
   
-  > ![](https://img.shields.io/badge/%F0%9F%A5%87-1st%20Publisher-CF524C)
+  > ![](https://img.shields.io/badge/%F0%9F%A5%87-1st%20Publisher-CF524C)    
   
-  1. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [가볍게 읽는 Product Analysis](https://playinpap.github.io/basic-product-analysis/)
-  2. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [성향 점수 분석을 이용한 인과추론](https://playinpap.github.io/propensity-score/)
-  3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [A/B 테스트에서 의미있는 효과 기준 (MDE)을 설정하는 방법](https://playinpap.github.io/abtest-setting-mde/)
+  1. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40?style=flat-square) [가볍게 읽는 Product Analysis](https://playinpap.github.io/basic-product-analysis/)
+  2. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40?style=flat-square) [성향 점수 분석을 이용한 인과추론](https://playinpap.github.io/propensity-score/)
+  3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40?style=flat-square) [A/B 테스트에서 의미있는 효과 기준 (MDE)을 설정하는 방법](https://playinpap.github.io/abtest-setting-mde/)
   
   </details>
   
   <details>
     <summary>2기 퍼블리셔</summary>
     
-  1. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [Product Analytics 201](https://playinpap.github.io/product-analytics-201/)
+  1. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40?style=flat-square) [Product Analytics 201](https://playinpap.github.io/product-analytics-201/)
   2. [수상할 정도로 결과가 잘 나오는 데이터 분석을 만드는 방법](https://playinpap.github.io/twyman-law/)
-  3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [버거킹의 쿠폰 활용을 통해 알아보는 고객 그룹 나누기](https://playinpap.github.io/segment-burgerking/)    
-  4. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40) [고객의 행동을 변화시키는 Actionable Insight](https://playinpap.github.io/for-model/)
+  3. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40?style=flat-square) [버거킹의 쿠폰 활용을 통해 알아보는 고객 그룹 나누기](https://playinpap.github.io/segment-burgerking/)    
+  4. ![](https://img.shields.io/badge/%F0%9F%8C%8A-surfit-130f40?style=flat-square) [고객의 행동을 변화시키는 Actionable Insight](https://playinpap.github.io/for-model/)
 
   </details>    
   
@@ -122,7 +123,7 @@
     2. [세상에 나쁜 가설은 없다](https://yozm.wishket.com/magazine/detail/1533/)
     3. [비즈니스에 데이터를 활용하기까지, 아마존닷컴](https://yozm.wishket.com/magazine/detail/1615/)
     4. [데이터 분석가가 되고 싶은 취준생을 위한 안내서](https://yozm.wishket.com/magazine/detail/1649/)
-    5. ![](https://img.shields.io/badge/%E2%AD%90-popular-f9ca24) [데이터 분석가에게 코딩테스트가 필요할까?](https://yozm.wishket.com/magazine/detail/1708/) 
+    5. ![](https://img.shields.io/badge/%E2%AD%90-popular-f9ca24?style=flat-square) [데이터 분석가에게 코딩테스트가 필요할까?](https://yozm.wishket.com/magazine/detail/1708/) 
 
   
 - [한빛우수리뷰선정: 혼자 공부하는 R 데이터분석](https://devground.hanbit.co.kr/2022/04/12/%eb%a7%8e%ec%9d%b4-%ec%93%b0%eb%8a%94-%ed%95%b5%ec%8b%ac-%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4%ec%9d%98-%ec%a2%85%eb%a5%98-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84%eb%a5%bc-%ea%b0%9a%ea%b8%b0/)
