@@ -131,7 +131,7 @@
   - [구글 엔지니어는 이렇게 일한다](https://jhk0530.medium.com/리뷰-구글-엔지니어는-이렇게-일한다-bf8dd9e84adc) (22.05. ![](https://img.shields.io/badge/%F0%9F%91%8D-Recommend-32ff7e?style=flat-square))
   - [사례 분석으로 배우는 데이터 시각화](https://jhk0530.medium.com/리뷰-사례-분석으로-배우는-데이터-시각화-3974f3f5bc8b) (22.06)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [구글 앱스 스크립트 완벽 가이드](https://jhk0530.medium.com/매주-자동으로-주간-일정-리마인드하는-메일-보내기-with-apps-script-32858f81b8af) (22.07. ![](https://img.shields.io/badge/%F0%9F%91%8D-Recommend-32ff7e?style=flat-square))
-  - [판다스 인 액션](https://jhk0530.medium.com/pandas-in-action-review-99c2e023e7f6) (22.09)
+  - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [판다스 인 액션](https://jhk0530.medium.com/pandas-in-action-review-99c2e023e7f6) (22.09)
 
 
 
