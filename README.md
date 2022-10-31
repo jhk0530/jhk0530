@@ -123,6 +123,7 @@
   - [비즈니스에 데이터를 활용하기까지, 아마존닷컴](https://yozm.wishket.com/magazine/detail/1615/) (22.07)
   - [데이터 분석가가 되고 싶은 취준생을 위한 안내서](https://yozm.wishket.com/magazine/detail/1649/) (22.08)
   - ![](https://img.shields.io/badge/%E2%AD%90-Popular-f9ca24?style=flat-square) [데이터 분석가에게 코딩테스트가 필요할까?](https://yozm.wishket.com/magazine/detail/1708/) (22.09)
+  - [지하철 노선도는 왜 조금씩 다를까?](https://yozm.wishket.com/magazine/detail/1761/) (22.10)
 
 - [![](https://img.shields.io/badge/나는_리뷰어다_2022-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [혼자 공부하는 R 데이터분석](https://jhk0530.medium.com/리뷰-혼자-공부하는-r-데이터-분석-3cc17b78503e) (22.02)
