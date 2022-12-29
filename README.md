@@ -133,6 +133,10 @@
   - [사례 분석으로 배우는 데이터 시각화](https://jhk0530.medium.com/리뷰-사례-분석으로-배우는-데이터-시각화-3974f3f5bc8b) (22.06)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [구글 앱스 스크립트 완벽 가이드](https://jhk0530.medium.com/매주-자동으로-주간-일정-리마인드하는-메일-보내기-with-apps-script-32858f81b8af) (22.07. ![](https://img.shields.io/badge/%F0%9F%91%8D-Recommend-32ff7e?style=flat-square))
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [판다스 인 액션](https://jhk0530.medium.com/pandas-in-action-review-99c2e023e7f6) (22.09)
+  - [데이터 스토리](https://jhk0530.medium.com/data-story-review-2dc9dc2554fd) (22.10)
+  - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [소문난 명강의: 김범준의 핸즈온 리액트 네이티브
+](https://jhk0530.medium.com/hands-on-react-native-review-f781fbf2c6f6) (22.11)
+
 
 
 
