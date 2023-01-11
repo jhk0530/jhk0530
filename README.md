@@ -28,11 +28,15 @@
 
 - [Statgarten 개발](https://www.statgarten.com/statgarten) (22.05 ~ )
 
-- 전공의 협의회 설문조사 데이터 대시보드 개발 (22.07 ~ 22.08)
+- 전공의협의회 설문조사 데이터 대시보드 프로토타입 개발 (22.07 ~ 22.08)
 
-- minimal R 강의 (22.10 ~ )
+- <Inflearn> minimal R 강의 (22.10 ~ )
 
-- 심평원 CDM 데이터 ETL (22.10 ~)
+- 심평원 CDM 데이터 ETL (22.10 ~ 22.12)
+
+- 전공의협의회 설문조사 데이터 대시보드 개발 리드 (22.12 ~ )
+	
+- Quarto 강의 (23.01)
 
 ## :mortar_board: Education 
 ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070?style=flat-square)
@@ -124,6 +128,8 @@
   - [데이터 분석가가 되고 싶은 취준생을 위한 안내서](https://yozm.wishket.com/magazine/detail/1649/) (22.08)
   - ![](https://img.shields.io/badge/%E2%AD%90-Popular-f9ca24?style=flat-square) [데이터 분석가에게 코딩테스트가 필요할까?](https://yozm.wishket.com/magazine/detail/1708/) (22.09)
   - [지하철 노선도는 왜 조금씩 다를까?](https://yozm.wishket.com/magazine/detail/1761/) (22.10)
+  - [파이썬 스트림릿으로 데이터 대시보드 만들기](https://yozm.wishket.com/magazine/detail/1827/) (22.11)
+  - [개발자 컨퍼런스, 어떻게 잘 즐길 수 있을까?](https://yozm.wishket.com/magazine/detail/1858/) (22.12)
 
 - [![](https://img.shields.io/badge/나는_리뷰어다_2022-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [혼자 공부하는 R 데이터분석](https://jhk0530.medium.com/리뷰-혼자-공부하는-r-데이터-분석-3cc17b78503e) (22.02)
@@ -136,6 +142,7 @@
   - [데이터 스토리](https://jhk0530.medium.com/data-story-review-2dc9dc2554fd) (22.10)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [소문난 명강의: 김범준의 핸즈온 리액트 네이티브
 ](https://jhk0530.medium.com/hands-on-react-native-review-f781fbf2c6f6) (22.11)
+  - [비즈니스 데이터 과학](https://jhk0530.medium.com/business-data-science-review-4d239bc567e6) (22.12)
 
 
 
