@@ -34,9 +34,11 @@
 
 - 심평원 CDM 데이터 ETL (22.10 ~ 22.12)
 
-- 전공의협의회 설문조사 데이터 대시보드 개발 리드 (22.12 ~ )
+- [전공의협의회 설문조사 데이터 대시보드](http://youngmd.org/2022) 개발 리드 (22.12 ~ 23.01)
 	
 - Quarto 강의 (23.01)
+	
+- R4CR 저작 (23.01 ~ )
 
 ## :mortar_board: Education 
 ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070?style=flat-square)
