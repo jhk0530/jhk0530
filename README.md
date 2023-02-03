@@ -132,6 +132,8 @@
   - [지하철 노선도는 왜 조금씩 다를까?](https://yozm.wishket.com/magazine/detail/1761/) (22.10)
   - [파이썬 스트림릿으로 데이터 대시보드 만들기](https://yozm.wishket.com/magazine/detail/1827/) (22.11)
   - [개발자 컨퍼런스, 어떻게 잘 즐길 수 있을까?](https://yozm.wishket.com/magazine/detail/1858/) (22.12)
+  - [코딩으로 문서 작성하는 콰르토(Quarto) 톺아보기](https://yozm.wishket.com/magazine/detail/1883/) (23.01)
+	
 
 - [![](https://img.shields.io/badge/나는_리뷰어다_2022-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [혼자 공부하는 R 데이터분석](https://jhk0530.medium.com/리뷰-혼자-공부하는-r-데이터-분석-3cc17b78503e) (22.02)
@@ -146,8 +148,7 @@
 ](https://jhk0530.medium.com/hands-on-react-native-review-f781fbf2c6f6) (22.11)
   - [비즈니스 데이터 과학](https://jhk0530.medium.com/business-data-science-review-4d239bc567e6) (22.12)
 
-
-
+- [![](https://img.shields.io/badge/나는_리뷰어다_2023-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
 
 
 ## :pencil: Publication
