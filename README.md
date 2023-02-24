@@ -146,7 +146,7 @@
   - [데이터 스토리](https://jhk0530.medium.com/data-story-review-2dc9dc2554fd) (22.10)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [소문난 명강의: 김범준의 핸즈온 리액트 네이티브
 ](https://jhk0530.medium.com/hands-on-react-native-review-f781fbf2c6f6) (22.11)
-  - [비즈니스 데이터 과학](https://jhk0530.medium.com/business-data-science-review-4d239bc567e6) (22.12)
+  - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [비즈니스 데이터 과학](https://jhk0530.medium.com/business-data-science-review-4d239bc567e6) (22.12)
 
 - [![](https://img.shields.io/badge/나는_리뷰어다_2023-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
 
