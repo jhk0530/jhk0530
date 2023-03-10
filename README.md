@@ -156,6 +156,7 @@
 - [netGO](https://academic.oup.com/bioinformatics/article/36/10/3283/5728635) : network-integrated pathway enrichment analysis (**Bioinformatics**)
 - ~~CellEnrich~~ (**Dropped**)
 - [Basic data analysis with palmerpenguins](https://www.r-bloggers.com/basic-data-analysis-with-palmerpenguins/) (**R-bloggers**)
+- [Introduction to data analysis with {Statgarten}](https://www.r-bloggers.com/2023/03/introduction-to-data-analysis-with-statgarten/) (**R-bloggers**)
 
 
 ## :closed_book: Book
