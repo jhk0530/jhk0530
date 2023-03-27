@@ -1,6 +1,6 @@
 ### README for jhk0530 👋
 
-- 최근 업데이트: 23년 1월 11일
+- 최근 업데이트: 23년 3월 27일
 
 ## :star: Now I am 
 
@@ -149,15 +149,19 @@
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [비즈니스 데이터 과학](https://jhk0530.medium.com/business-data-science-review-4d239bc567e6) (22.12)
 
 - [![](https://img.shields.io/badge/나는_리뷰어다_2023-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
+  - [러닝 타입스크립트](https://jhk0530.medium.com/learning-type-script-review-81c35838f0f7) (23.02)	
+  - [모던 자바스크립트로 배우는 리액트 입문](https://jhk0530.medium.com/react-intro-with-mordernjs-review-25a9c0651460) (23.03)
+	
+- [![](https://img.shields.io/badge/R-bloggers-d4703a?style=flat-square)](https://www.r-bloggers.com/)
+  - [Basic data analysis with palmerpenguins](https://www.r-bloggers.com/basic-data-analysis-with-palmerpenguins/)
+  - [Introduction to data analysis with {Statgarten}](https://www.r-bloggers.com/2023/03/introduction-to-data-analysis-with-statgarten/)
+  - [Creating Standalone Apps from Shiny with Electron [2023, macOS M1]](https://www.r-bloggers.com/2023/03/creating-standalone-apps-from-shiny-with-electron-2023-macos-m1/) 
 
 
 ## :pencil: Publication
 - [GSCluster](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5738-6) : network-weighted gene-set clustering analysis (**BMC Genomics**)
 - [netGO](https://academic.oup.com/bioinformatics/article/36/10/3283/5728635) : network-integrated pathway enrichment analysis (**Bioinformatics**)
 - ~~CellEnrich~~ (**Dropped**)
-- [Basic data analysis with palmerpenguins](https://www.r-bloggers.com/basic-data-analysis-with-palmerpenguins/) (**R-bloggers**)
-- [Introduction to data analysis with {Statgarten}](https://www.r-bloggers.com/2023/03/introduction-to-data-analysis-with-statgarten/) (**R-bloggers**)
-
 
 ## :closed_book: Book
 - [Minimal Shiny](https://wikidocs.net/book/4084)
