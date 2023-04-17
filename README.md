@@ -152,6 +152,9 @@
   - [러닝 타입스크립트](https://jhk0530.medium.com/learning-type-script-review-81c35838f0f7) (23.02)	
   - [모던 자바스크립트로 배우는 리액트 입문](https://jhk0530.medium.com/react-intro-with-mordernjs-review-25a9c0651460) (23.03)
 	
+- [![](https://img.shields.io/badge/길벗_개발자_리뷰어-252324?style=flat-square)](https://thebook.io/)
+  - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [거니의 문과감성 실용 파이썬](https://medium.com/p/335b86d60980) (23.03)
+	
 - [![](https://img.shields.io/badge/R-bloggers-d4703a?style=flat-square)](https://www.r-bloggers.com/)
   - [Basic data analysis with palmerpenguins](https://www.r-bloggers.com/basic-data-analysis-with-palmerpenguins/)
   - [Introduction to data analysis with {Statgarten}](https://www.r-bloggers.com/2023/03/introduction-to-data-analysis-with-statgarten/)
