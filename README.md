@@ -12,13 +12,13 @@
 
 - [DS / AI Bootcamp Lecturer @Code States](https://codestates.com/course/ai) (20.08 ~ 21.02)
 
-- [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc): [멘토링](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) `build Data package with R` (20.11)
+- ![](https://img.shields.io/badge/R-gray?style=flat-square&logo=R) [Rthon](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc): [멘토링](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) `build Data package with R` (20.11)
 
 <!-- - [DataPackage](https://github.com/jhk0530/presentations/blob/main/DataPackage.pdf) : How to build Data package with R -->
 
 - [Github Action으로 R Report 만들기](https://github.com/jhk0530/presentations/blob/main/myActionR2.pdf) (20.12)
 
-- [eCRF-SMCcath](https://github.com/zarathucorp/eCRF-SMCcath): 환자 데이터 기록 시스템 개발 (21.03 ~ 21.06)
+- ![](https://img.shields.io/badge/Shiny-gray?style=flat-square&logo=RStudio) [eCRF-SMCcath](https://github.com/zarathucorp/eCRF-SMCcath): 환자 데이터 기록 시스템 개발 (21.03 ~ 21.06)
 
 - Code States Admission팀 Data Science 팀내 교육 (21.06 ~ 21.10)
 
@@ -26,19 +26,23 @@
 
 - [Python 강의](https://edulife.dongguk.edu/ngrade/site/html/4347) (22.01)
 
-- [Statgarten 개발](https://www.statgarten.com/statgarten) (22.05 ~ )
+- ![](https://img.shields.io/badge/Shiny-gray?style=flat-square&logo=RStudio) [Statgarten 개발](https://www.statgarten.com/statgarten) (22.05 ~ )
 
-- 전공의협의회 설문조사 데이터 대시보드 프로토타입 개발 (22.07 ~ 22.08)
+- ![](https://img.shields.io/badge/Shiny-gray?style=flat-square&logo=RStudio) 전공의협의회 설문조사 데이터 대시보드 프로토타입 개발 (22.07 ~ 22.08)
 
 - <Inflearn> minimal R 강의 (22.10 ~ )
 
-- 심평원 CDM 데이터 ETL (22.10 ~ 22.12)
+- ![](https://img.shields.io/badge/SQL-gray?style=flat-square&logo=MySQL) 심평원 CDM 데이터 ETL (22.10 ~ 22.12)
 
-- [전공의협의회 설문조사 데이터 대시보드](http://youngmd.org/2022) 개발 리드 (22.12 ~ 23.01)
+- ![](https://img.shields.io/badge/Streamlit-gray?style=flat-square&logo=streamlit) [전공의협의회 설문조사 데이터 대시보드](http://youngmd.org/2022) 개발 리드 (22.12 ~ 23.01)
 	
-- Quarto 강의 (23.01)
+- ![](https://img.shields.io/badge/Quarto-gray?style=flat-square&logo=RStudio) Quarto 강의 (23.01)
 	
-- R4CR 저작 (23.01 ~ )
+- ![](https://img.shields.io/badge/Quarto-gray?style=flat-square&logo=RStudio) [R4CR](https://education.zarathu.com/) 저작 (23.01 ~ )
+
+- ![](https://img.shields.io/badge/Shiny-gray?style=flat-square&logo=RStudio) 연세의료원 연구용 통계 프로그램 개발 (23.02 ~ 23.04)
+	
+- ![](https://img.shields.io/badge/Shiny-gray?style=flat-square&logo=RStudio) 국립암센터 암센터 통계 프로그램 개발 (23.04 ~ )
 
 ## :mortar_board: Education 
 ![](https://img.shields.io/badge/HIGH-SJSH_2008~2009-%23a90070?style=flat-square)
@@ -86,6 +90,7 @@
 ### ![](https://img.shields.io/badge/-Expert-5352ed?style=for-the-badge)
 ![](https://img.shields.io/badge/R-gray?style=flat-square&logo=R)
 ![](https://img.shields.io/badge/Shiny-gray?style=flat-square&logo=RStudio)
+![](https://img.shields.io/badge/Quarto-gray?style=flat-square&logo=RStudio)
 
 ## :black_nib: Writing
 
@@ -131,9 +136,10 @@
   - ![](https://img.shields.io/badge/%E2%AD%90-Popular-f9ca24?style=flat-square) [데이터 분석가에게 코딩테스트가 필요할까?](https://yozm.wishket.com/magazine/detail/1708/) (22.09)
   - [지하철 노선도는 왜 조금씩 다를까?](https://yozm.wishket.com/magazine/detail/1761/) (22.10)
   - [파이썬 스트림릿으로 데이터 대시보드 만들기](https://yozm.wishket.com/magazine/detail/1827/) (22.11)
-  - [개발자 컨퍼런스, 어떻게 잘 즐길 수 있을까?](https://yozm.wishket.com/magazine/detail/1858/) (22.12)
+  - ![](https://img.shields.io/badge/%E2%AD%90-Popular-f9ca24?style=flat-square) [개발자 컨퍼런스, 어떻게 잘 즐길 수 있을까?](https://yozm.wishket.com/magazine/detail/1858/) (22.12)
   - ![](https://img.shields.io/badge/%E2%AD%90-Popular-f9ca24?style=flat-square) [코딩으로 문서 작성하는 콰르토(Quarto) 톺아보기](https://yozm.wishket.com/magazine/detail/1883/) (23.01)
-	
+  - [3일짜리 사이드 프로젝트가 B2B 프로덕트 된 사연](https://yozm.wishket.com/magazine/detail/1965/) (23.02)
+  - ![](https://img.shields.io/badge/%E2%AD%90-Popular-f9ca24?style=flat-square) [개발자가 알아두면 좋은 ‘재현 가능한 예제’ 활용법](https://yozm.wishket.com/magazine/detail/2027/) (23.03)	
 
 - [![](https://img.shields.io/badge/나는_리뷰어다_2022-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [혼자 공부하는 R 데이터분석](https://jhk0530.medium.com/리뷰-혼자-공부하는-r-데이터-분석-3cc17b78503e) (22.02)
@@ -151,6 +157,8 @@
 - [![](https://img.shields.io/badge/나는_리뷰어다_2023-00afa0?style=flat-square)](https://www.hanbit.co.kr/)
   - [러닝 타입스크립트](https://jhk0530.medium.com/learning-type-script-review-81c35838f0f7) (23.02)	
   - [모던 자바스크립트로 배우는 리액트 입문](https://jhk0530.medium.com/react-intro-with-mordernjs-review-25a9c0651460) (23.03)
+  - [게임 전쟁: 게임 패권 다툼 그리고 위대한 콘솔의 탄생](https://jhk0530.medium.com/console-game-history-review-939079437046) (23.04)
+  - [Docs for Developers 기술 문서 작성 완벽 가이드](https://jhk0530.medium.com/docs-for-developers-reivew-3a1aa541e475) (23.05)
 	
 - [![](https://img.shields.io/badge/길벗_개발자_리뷰어-252324?style=flat-square)](https://thebook.io/)
   - ![](https://img.shields.io/badge/%E2%AD%90-Award-f9ca24?style=flat-square) [거니의 문과감성 실용 파이썬](https://medium.com/p/335b86d60980) (23.03)
@@ -170,6 +178,7 @@
 - [Minimal Shiny](https://wikidocs.net/book/4084)
 - [VSCode Extension API Guide](https://pg-vscode-extn-kr.github.io/) (**Translation**)
 - ~~[Shiny Server Administrators Guide](https://jhk0530.gitbook.io/shinyserverguide/) (**Translation**, **In Process**)~~ (**Dropped**)
+- [데이터 과학자 원칙](https://product.kyobobook.co.kr/detail/S000202271159)
 
 ## :star: Group
 [<img src='https://avatars.githubusercontent.com/u/46152851?s=64&v=4' width = '100'>](https://github.com/unistbig/)
